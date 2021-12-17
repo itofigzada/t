@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Shahmar
+          Learn React with Shahmar and ismayil
         </a>
       </header>
     </div>
