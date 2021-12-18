@@ -15,7 +15,7 @@ function App() {
         >
           link
         </a>
-        <h1>Testing test2 test 3 test4 test 5 test 6</h1>
+        <h1>Main edited by contributor. will be a push</h1>
       </header>
     </div>
   );
