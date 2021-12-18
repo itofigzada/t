@@ -13,8 +13,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Shahmar and ismayil
+          link
         </a>
+        <h1>Testing</h1>
       </header>
     </div>
   );
