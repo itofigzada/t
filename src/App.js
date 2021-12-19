@@ -13,9 +13,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          link
+      
         </a>
+<<<<<<< HEAD
         <h1> ALL Set and </h1>
+=======
+        <h1> oldudfsdaadfssdfsdaaa</h1>
+>>>>>>> 66198c9e4fec14e5ea85f661e3f5913d7c137ffe
       </header>
     </div>
   );
