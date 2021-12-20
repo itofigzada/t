@@ -15,7 +15,7 @@ function App() {
         >
           link
         </a>
-        <h1> ISI change</h1>
+        <h1>start new</h1>
       </header>
     </div>
   );
