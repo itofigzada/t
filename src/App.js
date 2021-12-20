@@ -15,7 +15,7 @@ function App() {
         >
           link
         </a>
-        <h1> ALL Set and goood</h1>
+        <h1> ISI</h1>
       </header>
     </div>
   );
