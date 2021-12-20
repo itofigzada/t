@@ -13,9 +13,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          link
+      
         </a>
-        <h1> ISI change</h1>
+        <h1> Duzeldessen e </h1>
       </header>
     </div>
   );
