@@ -15,7 +15,7 @@ function App() {
         >
       
         </a>
-        <h1> Duzeldgfdsaesmnmsen e </h1>
+        <h1> Fso partlatdim</h1>
       </header>
     </div>
   );
