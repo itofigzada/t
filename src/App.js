@@ -15,7 +15,7 @@ function App() {
         >
       
         </a>
-        <h1> ISI </h1>
+        <h1> Duzeldessen duzeltde </h1>
       </header>
     </div>
   );
