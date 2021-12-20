@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          link
+      
         </a>
         <h1> ISI </h1>
       </header>
